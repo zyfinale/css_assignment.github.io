@@ -1,0 +1,42 @@
+body{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 100%;
+}
+
+header{
+    background-color: white;
+}
+
+nav{
+    background-color: white;
+}
+
+main{
+    background-color: white;
+    font-size: medium;
+}
+
+footer{
+    background-color: aqua;
+}
+
+li{
+    display:inline-block;
+    width: 150px;
+    font-family: Georgia, 'Times New Roman', Times, san-serif;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+h1{
+    text-align: justify;
+    font-family: 'Georgia', 'Times New Roman', Times, sans-serif;
+    color: blue;
+}
+
+p{
+    line-height: 100%;
+    text-align: justify;
+    background-color: white;
+}
